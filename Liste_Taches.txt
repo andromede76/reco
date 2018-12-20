@@ -1,0 +1,7 @@
+Améliorer interface 
+
+Générique pour date, montant, adresse, insee,adresse,texte, chiffre
+
+Améliorer temps d'éxécution RAD 
+
+Faire un projet didactique sur l'algorithme RLSA 
